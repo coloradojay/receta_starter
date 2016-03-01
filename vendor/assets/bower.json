@@ -3,6 +3,8 @@
   "dependencies": {
     "angular": "latest",
     "bootstrap-sass-official": "latest",
-    "font-awesome": "latest"
+    "font-awesome": "latest",
+    "angular-route": "latest",
+    "angular-animate": "latest"
   }
 }

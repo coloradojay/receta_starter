@@ -1,3 +1,3 @@
 (function() {
-    angular.module('receta', [])
+    angular.module('receta', ['ngRoute', 'ngAnimate'])
 })();
