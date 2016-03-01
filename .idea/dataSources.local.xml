@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails receta: test" uuid="1522e5cd-68e4-4668-8b17-197d055f8805" />
+    <data-source name="Rails receta: development" uuid="3a9b537a-ce5a-404a-90a9-8031a2e879f9">
+      <schema-pattern>receta_development.pg_catalog receta_development.public</schema-pattern>
+      <default-schemas>receta_development.public</default-schemas>
+    </data-source>
+    <data-source name="Rails receta: production" uuid="79e40740-17fd-4c8e-8df5-83cc643c2d4f">
+      <user-name>mac</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfefdfe9dfefdffedfebdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
