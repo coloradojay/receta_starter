@@ -24,13 +24,13 @@
       <schema id="2" parent="1" name="public">
         <object-id>2200</object-id>
         <comment>standard public schema</comment>
-        <introspection-timestamp>2016-02-29.21:09:27.583</introspection-timestamp>
+        <introspection-timestamp>2016-03-01.09:14:16.253</introspection-timestamp>
       </schema>
       <schema id="3" parent="1" name="pg_catalog">
         <object-id>11</object-id>
         <comment>system catalog schema</comment>
         <introspection-state-number>937</introspection-state-number>
-        <introspection-timestamp>2016-02-29.21:09:27.776</introspection-timestamp>
+        <introspection-timestamp>2016-03-01.09:14:16.496</introspection-timestamp>
       </schema>
       <table id="4" parent="3" name="pg_aggregate">
         <object-id>2600</object-id>
